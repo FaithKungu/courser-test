@@ -1,2 +1,1 @@
-# coursera-test
-coursera-test repository
+https://faithkungu.github.io/coursera.github.io/
