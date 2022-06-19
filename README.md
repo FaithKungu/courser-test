@@ -1,1 +1,1 @@
-https://faithkungu.github.io/coursera.github.io/
+coursera.github.io/index.html
